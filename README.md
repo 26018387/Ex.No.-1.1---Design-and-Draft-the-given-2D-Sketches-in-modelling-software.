@@ -17,19 +17,23 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+<img width="587" height="1280" alt="WhatsApp Image 2026-11-23 at 5 03 33 PM" src="https://github.com/user-attachments/assets/20292d7b-9c6f-4bac-8e6b-adbbc5437f57" />
+
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+<img width="587" height="1280" alt="WhatsApp Image 2026-11-23 at 5 03 33 PM (1)" src="https://github.com/user-attachments/assets/ab2edbba-dc24-45dc-a501-542aca2122a5" />
+
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+<img width="1158" height="883" alt="WhatsApp Image 2026-11-23 at 5 03 34 PM" src="https://github.com/user-attachments/assets/33959516-2820-4549-9735-8531e4209a25" />
+
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+<img width="684" height="1279" alt="WhatsApp Image 2026-11-23 at 5 03 34 PM (1)" src="https://github.com/user-attachments/assets/405e3c3a-2774-4096-9347-19b932c944c3" />
+
 
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
@@ -42,6 +46,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+<img width="1280" height="927" alt="WhatsApp Image 2026-11-23 at 5 03 34 PM (2)" src="https://github.com/user-attachments/assets/e162ac53-cda6-4aa1-abe6-40430c07be25" />
 
 
 ## RESULT
