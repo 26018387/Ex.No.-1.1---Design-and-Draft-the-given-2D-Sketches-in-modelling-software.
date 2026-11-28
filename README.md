@@ -21,8 +21,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 5. after completing,use mirror tool to get the model
    
   <img width="863" height="631" alt="{4C1D6D1F-2CA8-446F-AAFB-40569D4CD141}" src="https://github.com/user-attachments/assets/f8ce287f-e24e-41f9-afaa-370f704e6a77"   />
-6.after completing click finish sketch
-7.finall change 3D model to 2D
+6. after completing click finish sketch
+7. finally change 3D model to 2D
 
 
 ## SKETCHS
