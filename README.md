@@ -14,11 +14,13 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## PROCEDURE
 
 1. First, click on Create Sketch and select the Top Plane.
+
    <img width="223" height="239" alt="{1DA0176A-AAD9-4AF5-81DD-75B799506832}" src="https://github.com/user-attachments/assets/2e757ca1-3e87-4fbf-8e48-8a677942076d" />
-2. draw center circle for diameter 40mm
-3. do first left side of the model
-4. after completing,use mirror tool to get the model
-<img width="863" height="631" alt="{4C1D6D1F-2CA8-446F-AAFB-40569D4CD141}" src="https://github.com/user-attachments/assets/f8ce287f-e24e-41f9-afaa-370f704e6a77" />
+3. draw center circle for diameter 40mm
+4. do first left side of the model
+5. after completing,use mirror tool to get the model
+   
+  <img width="863" height="631" alt="{4C1D6D1F-2CA8-446F-AAFB-40569D4CD141}" src="https://github.com/user-attachments/assets/f8ce287f-e24e-41f9-afaa-370f704e6a77" />
 5.after completing click finish sketch
 6.finall change 3D model to 2D
 
